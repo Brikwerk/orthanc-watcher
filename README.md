@@ -4,7 +4,7 @@ A Python application that watches a local Orthanc-Dicom server. If any images ol
 
 ## Releases
 
-Releases are available to download [--here--](https://gitlab.com/brikwerk/orthanc-watcher/tags)
+Releases are available to download [here](https://github.com/brikwerk/orthanc-watcher/releases)
 
 ## Installation
 1. Extract the contents of the Orthanc Watcher zip folder to your preferred installation directory.
